@@ -1,1 +1,10 @@
-
+Item,Details,Supporting Source / Database
+Sender Cell,"Chondrocyte (Human joint cartilage cell)",Human Protein Atlas (HPA)
+Signal / Ligand,"FGF18 (Fibroblast Growth Factor 18)",UniProt / HPA
+Receptor,"FGFR3 (Fibroblast Growth Factor Receptor 3)",OmniPath / UniProt
+Receiver Cell,"Chondrocyte (Autocrine/Paracrine cartilage signaling)",Human Protein Atlas
+Signaling Type,Paracrine / Autocrine signaling,Biological context
+OmniPath Annotation,"FGF18 annotated as ligand; FGFR3 annotated as receptor; direct ligand-receptor interaction pair",OmniPath Explorer
+STRING Network,"Enriched in MAPK signaling pathway (FGF18, FGFR3, FRS2, GRB2, SOS1, KRAS, RAF1, MAP2K1, MAPK1)",STRING Database (v12)
+IntAct Record,"EBI-8356973 (Physical interaction: FGF18 binding to FGFR3 extracellular domain validated by X-ray crystallography)",IntAct Database
+Cellular Response,Regulation of chondrocyte proliferation and cartilage extracellular matrix maintenance,UniProt / Literature
